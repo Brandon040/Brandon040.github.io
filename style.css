@@ -1,4 +1,16 @@
 
+
+
+
+#wrapper {width: 900px; margin: auto;}
+
+header {
+  width: 900;
+  height: 50px;
+  background-color: yellow;
+}
+
+
 p{font-weight: bold;}
 
 
