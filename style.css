@@ -1,7 +1,6 @@
 
 
 
-
 #wrapper {
   width: 800px;
   margin: auto;
@@ -13,11 +12,9 @@ header {
   padding: 1px;
  text-align: center;
  background: #yellow;
- color: white;
  font-size: 20px;
-
-p{font-weight: bold;}
-
+}
+ 
 
 
 body{background-image: url('chinesebackground.jpg');}
