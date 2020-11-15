@@ -1,11 +1,8 @@
-<h1> {color: blue;}
+<h1> {color: red;}
 
 h1 {
   font-weight: normal;
 }
 
 
-body {
-  background-image:
-  url('chinesebackground.jpg');
-}
+body {background-image: url('chinesebackground.jpg');}
