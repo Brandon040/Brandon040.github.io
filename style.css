@@ -1,5 +1,6 @@
 
 
+body{background-image: url('chinesebackground.jpg');}
 
 #wrapper {
   width: 800px;
@@ -8,13 +9,11 @@
   background-color: ;
 }
 
+
+
 header {
   padding: 1px;
  text-align: center;
  background: #yellow;
  font-size: 20px;
 }
- 
-
-
-body{background-image: url('chinesebackground.jpg');}
