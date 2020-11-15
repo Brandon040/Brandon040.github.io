@@ -1,5 +1,9 @@
 <h1> {color: blue;}
 
+h1 {
+  font-weight: normal;
+}
+
 
 body {
   background-image:
