@@ -13,6 +13,8 @@ header {
  width: 800px;
  height: 60px;
  background-color: #ffabff;
+ float: left;
+ <h1 STYLE="font-size: 24px; font-family: 'Comic Sans MS';">hung loempia's</h1>
 }
 
 p{font-weight: bold;}
