@@ -4,10 +4,12 @@
 
 #wrapper {width: 900px; margin: auto;}
 
-<body>
- header {width: 900; height: 50px background-color: yellow}
 
-</body>
+ <header>
+   <h1>Hung's loempia's</h1>
+ </header>
+
+
 p{font-weight: bold;}
 
 
