@@ -4,13 +4,10 @@
 
 #wrapper {width: 900px; margin: auto;}
 
-header {
-  width: 900;
-  height: 50px;
-  background-color: yellow;
-}
+<body>
+ header {width: 900; height: 50px background-color: yellow}
 
-
+</body>
 p{font-weight: bold;}
 
 
