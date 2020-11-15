@@ -9,7 +9,11 @@
   background-color: ;
 }
 
-
+header {
+ width: 1000px;
+ height: 20px;
+ background-color: #ffabff;
+}
 
 p{font-weight: bold;}
 
