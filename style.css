@@ -7,6 +7,9 @@ height: 115px;
 width: 800px;
 float: left;
 
+
+*margin: 0px;
+
 #wrapper {
   width: 800px;
   margin: auto;
