@@ -1,6 +1,10 @@
 
 
-body {background-image: url('chinesebackground.jpg');}
+body {
+  padding: 0;
+  margin: 0;
+  background-image: url('chinesebackground.jpg');
+}
 
 header {background-color: red;
 height: 115px;
