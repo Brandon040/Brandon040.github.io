@@ -2,6 +2,11 @@
 
 body {background-image: url('chinesebackground.jpg');}
 
+header {background-color: red;
+height: 115px;
+width: 800px;
+float: left;
+
 #wrapper {
   width: 800px;
   margin: auto;
