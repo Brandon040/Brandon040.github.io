@@ -4,9 +4,9 @@ body {background-image: url('chinesebackground.jpg');}
 
 header {background-color: red;
 height: 115px;
-width: 800px;
+width: 900px;
 float: left;
-
+margin-top: auto;
 
 *margin: 0px;
 
