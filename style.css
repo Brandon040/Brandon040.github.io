@@ -1,22 +1,23 @@
-
-
 body {
   padding: 0;
   margin: 0;
-  background-image: url('stadion.jpg');
+  background: {background-image: url('chinesebackground.jpg');}
 }
-
-header {background-color: red;
-height: 115px;
-width: 900px;
-float: left;
-margin-top: auto;
-
-*margin: 0px;
-
-#wrapper {
-  width: 800px;
-  margin: auto;
-  margin-top: 0px;
-  background-color: ;
+/*--- navigation bar ---*/
+.navbar {
+  background:#6ab446;
+}
+.nav-link,
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+}
+.nav-link {
+  margin-right: 1em !important;
+}
+.nav-link:hover {
+  color: #000;
+}
+.navbar-collapse {
+  justify-content: flex-end;
 }
