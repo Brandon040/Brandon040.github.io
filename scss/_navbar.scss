@@ -2,7 +2,7 @@
   background-color: fade-out($secondary, 0.1);
   @include heading-font;
   .navbar-brand {
-    color: $primary;
+    color: $primary #090d75;
   }
   .navbar-nav {
     .nav-item {
