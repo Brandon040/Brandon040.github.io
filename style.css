@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  background: {background-image: url('stadion.jpg');}
+  background: white;
 }
 /*--- navigation bar ---*/
 .navbar {
@@ -12,7 +12,7 @@ body {
 }
 .nav-link,
 .navbar-brand {
-  color: #fff;
+  color: FFF;
   cursor: pointer;
 }
 .nav-link {
