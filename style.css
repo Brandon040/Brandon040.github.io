@@ -82,7 +82,7 @@ p {
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #251be0;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -147,7 +147,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: rgba(21, 24, 138, 0.85);
 }
 
 .cta .cta-inner {
@@ -228,7 +228,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgba(23, 29, 146, 0.65);
 }
 
 .text-primary {
