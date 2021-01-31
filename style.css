@@ -9,10 +9,12 @@
 body {
   font-family: 'Lora';
   background-image: linear-gradient(rgba(112, 128, 230, 0.67), rgba(40, 80, 154, 0.69)), url("../img/graaftimmerwerken.jpg");
+  /*de kleuren hebben we bij alles veranderd en de foto's ook*/
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
 }
+/*dit is voor de body*/
 
 h1,
 h2,
